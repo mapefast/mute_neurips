@@ -6,6 +6,8 @@ The MuTE toolbox, described in [this paper](http://10.1371/journal.pone.0109462)
 
 This repository basically mirrors [this one](https://github.com/montaltoalessandro/MuTE).
 
+There are two new methods, nnnuela1 and nnnuela2, implementing the suggestion of [this paper](https://doi.org/10.1371/journal.pone.0194382). These latter were though not used in the final submission to the challenge.
+
 The MAPEFAST team who participated in the challenge is:
 
 - Daniele Marinazzo, University of Ghent
