@@ -4,7 +4,7 @@ version of the MuTE toolbox that we used for the [CauseME NeurIPS 2019 challenge
 
 The MuTE toolbox, described in [this paper](http://10.1371/journal.pone.0109462) implements several estimators for the computation of Transfer Entropy, with two embedding strategies, uniform and nonuniform.
 
-This repository basically mirrors [this one](https://github.com/montaltoalessandro/MuTE).
+This repository basically mirrors [this one](https://github.com/montaltoalessandro/MuTE) by Alessandro Montalto, the developer of the toolbox.
 
 There are two new methods with respect to the original version, nnnuela1 and nnnuela2, implementing the suggestion of [this paper](https://doi.org/10.1371/journal.pone.0194382).
 
